@@ -2,7 +2,7 @@ Consignes :
 
 - Créer la variable $texte et assigner la valeur "Du texte est stocké"
 
-- Ecrire à la suite un echo affchant le contenu de la variable $texte
+- Ecrire à la suite un echo affichant le contenu de la variable $texte
 
 - Declarer une seconde variable appelée y ayant pour valeur 30
 
